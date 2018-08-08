@@ -9,6 +9,8 @@
 ## Company
 - GitLab
   - <https://docs.gitlab.com/ee/development/testing_guide/index.html>
+- Airbnb (Airbnb JavaScript Style Guide)
+  - <https://github.com/airbnb/javascript#testing>
   
 ## Independent
 - Testing Your Code — The Hitchhiker's Guide to Python
