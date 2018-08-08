@@ -1,2 +1,15 @@
-# List-of-Testing-standards-and-style-guidelines
-List of Testing standards and style guidelines
+# Testing standards and style guidelines
+
+## Language / Framework
+- JavaScript style guide, linter, and formatter
+  - <https://standardjs.com>
+- Protractor style guide
+  - <https://github.com/angular/protractor/blob/master/docs/style-guide.md>
+
+## Company
+- GitLab
+  - <https://docs.gitlab.com/ee/development/testing_guide/index.html>
+  
+## Independent
+- Testing Your Code — The Hitchhiker's Guide to Python
+  - <https://docs.python-guide.org/writing/tests/#testing-your-code>
