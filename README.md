@@ -20,4 +20,6 @@
 - Testing Your Code — The Hitchhiker's Guide to Python
   - <https://docs.python-guide.org/writing/tests/#testing-your-code>
 - Guidelines for Software Testing. - Software Testing Mentor
-  - http://www.softwaretestingmentor.com/guidelines-for-software-testing/
+  - <http://www.softwaretestingmentor.com/guidelines-for-software-testing/>
+- Test-Automation-Coding Standards
+  - <http://automationtestingknowledge.blogspot.com/2014/04/test-automation-coding-standards.html>
