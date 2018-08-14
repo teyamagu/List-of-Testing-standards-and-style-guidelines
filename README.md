@@ -23,3 +23,5 @@
   - <http://www.softwaretestingmentor.com/guidelines-for-software-testing/>
 - Test-Automation-Coding Standards
   - <http://automationtestingknowledge.blogspot.com/2014/04/test-automation-coding-standards.html>
+- Naming standards for unit tests
+  - <http://osherove.com/blog/2005/4/3/naming-standards-for-unit-tests.html>
