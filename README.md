@@ -25,3 +25,5 @@
   - <http://automationtestingknowledge.blogspot.com/2014/04/test-automation-coding-standards.html>
 - Naming standards for unit tests
   - <http://osherove.com/blog/2005/4/3/naming-standards-for-unit-tests.html>
+- GUI Testing on Smart Devices – Testing Guidelines
+  - <https://www.softwaretestinghelp.com/gui-testing-on-smart-devices-testing-guidelines/>
